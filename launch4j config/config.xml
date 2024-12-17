@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\perer\OneDrive\Documents\NetBeansProjects\Wheel_Alignment_Project\dist\Wheel_Alignment_Project.jar</jar>
+  <outfile>C:\Users\perer\OneDrive\Documents\NetBeansProjects\Wheel_Alignment_Project\dist\Ranjan Motors - Wheel Alignment Center.exe</outfile>
+  <errTitle>You Need Java</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\My Study Works\SAD\Viva Project\favicon (2).ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Ranjan Motors - Wheel Alignment Center</fileDescription>
+    <copyright>NIL</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>Ranjan Motors - Wheel Alignment Center</productName>
+    <companyName>KA</companyName>
+    <internalName>Ranjan Motors - Wheel Alignment Center</internalName>
+    <originalFilename>Ranjan Motors - Wheel Alignment Center.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
